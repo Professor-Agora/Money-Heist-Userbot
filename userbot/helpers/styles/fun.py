@@ -1,4 +1,3 @@
-
 # Copyright (C) 2020 Adek Maulana
 #
 # SPDX-License-Identifier: GPL-3.0-or-later
